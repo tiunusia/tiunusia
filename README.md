@@ -77,11 +77,11 @@ class Ti extends Unusia {
 
 </a>
 
-[<img src="./resources/hr.gif"/>](https://github.com/tiunusa)
+[<img src="./resources/hr.gif"/>](https://github.com/tiunusia)
 
 </p>
 
-[<img src="./resources/hr.gif"/>](https://github.com/tiunusa)
+[<img src="./resources/hr.gif"/>](https://github.com/tiunusia)
 
 
 <h2 align="center"><a href='https://t.me/greyvbss'/><b>Personal Information 👨‍💻</b></h2>
@@ -91,8 +91,8 @@ class Ti extends Unusia {
 
 
 ```python
-Name = "Farid"
-Age = "21"
+Name = "Farid Suryadi"
+Age = "19"
 Country = "Indonesia"
 ```
 
