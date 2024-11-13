@@ -1,6 +1,6 @@
 
-[<img src="./resources/hr.gif"/>](https://github.com/AyiinXd)
-<img align='right' src='https://telegra.ph/file/fc99dc29db5d59d306e60.jpg' width='360'/>
+[<img src="./resources/hr.gif"/>](https://github.com/tiunusia)
+<img align='right' src='./resources/ti.jpg' width='360'/>
  
 <h1> <img src="./resources/hand.webp" width="30px"> I'AM TI UNUSIA </h1>
 
