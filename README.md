@@ -4,12 +4,7 @@
  
 <h1> <img src="./resources/hand.webp" width="30px"> I'AM TI UNUSIA </h1>
 
-<p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
-       <img align="middle" src="https://profile-counter.glitch.me/AyiinXd/count.svg" />
-</p>
-
-[<img src="./resources/hr.gif"/>](https://github.com/AyiinXd)
+[<img src="./resources/hr.gif"/>](https://github.com/tiunusia)
 
 
 ```typescript
@@ -73,22 +68,26 @@ class Ti extends Unusia {
  ```
 # ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ
 
-<a href="https://open.spotify.com/user/dfrjnf1uxpkfzb2yes1mj9sqx?si=F7PO8_ALQrK5tTFp5Adskg&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="" srcset=""></a>
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/AyiinXd)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AyiinXd)
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/tiunusia)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tiunusia)
+[![X/Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tiunusia)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiunusia_ofc24) 
+[![TikTok](https://img.shields.io/badge/TikTok-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tiunusia) 
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white)](https://tiunusia.com)
+
 </a>
 
-[<img src="./resources/hr.gif"/>](https://github.com/AyiinXd)
+[<img src="./resources/hr.gif"/>](https://github.com/tiunusa)
 
 </p>
 
-[<img src="./resources/hr.gif"/>](https://github.com/AyiinXd)
+[<img src="./resources/hr.gif"/>](https://github.com/tiunusa)
 
 
-<h2 align="center"><a href='https://t.me/AyiinXd'/><b>Personal Information 👨‍💻</b></h2>
+<h2 align="center"><a href='https://t.me/greyvbss'/><b>Personal Information 👨‍💻</b></h2>
 
 
-<p align='Middle'><a href='https://t.me/AyiinXd><img src='./resources/telegram_icon.png' width='750"'></a></p>
+<p align='Middle'><a href='https://t.me/greyvbss><img src='./resources/telegram_icon.png' width='750"'></a></p>
 
 
 ```python
@@ -106,8 +105,8 @@ Country = "Indonesia"
 <h2 align="center"><b>⠂Most Used Languages⠐
 <br>
 <br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AyiinXd&layout=compact&theme=midnight-purple&hide=Css">
-    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyiinXd&layout=compact&theme=midnight-purple&hide=Css" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Xcilik&layout=compact&theme=midnight-purple&hide=Css">
+    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xcilik&layout=compact&theme=midnight-purple&hide=Css" />
 </a>
 </b></h2>  
 </details>
@@ -121,7 +120,9 @@ Country = "Indonesia"
   <br>
 
 
-[![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/AyiinXd) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@AyiinXd)</b></h2> 
+[![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/greyvbss)
+[![X/Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/faridsrydi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/faridsrydi)  
 </details>
 <details>
 <summary>⠂Languages And Tools I Love⠐</summary>
