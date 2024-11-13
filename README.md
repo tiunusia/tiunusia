@@ -71,16 +71,6 @@ class Ti extends Unusia {
     }
 }
  ```
- [<img src="./resources/hr.gif"/>](https://github.com/AyiinXd)
-
-[<img src="./resources/hr.gif"/>](https://github.com/AyiinXd)
-   
-<h1> <img src="./resources/github_icon.png" width="30px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
-
-[<img src="https://github-readme-stats.vercel.app/api?username=AyiinXd&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=AyiinXd%27S+Github+Stats:-&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/AyiinXd) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyiinXd&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/AyiinXd)
-
-[<img src="./resources/hr.gif"/>](https://github.com/AyiinXd)
-
 # ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ
 
 <a href="https://open.spotify.com/user/dfrjnf1uxpkfzb2yes1mj9sqx?si=F7PO8_ALQrK5tTFp5Adskg&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="" srcset=""></a>
